@@ -1,8 +1,11 @@
-# new_dicee
+# Dicee
 
-A new Flutter project.
+A simple flutter project that mimics "Heads or Tails" game. 
+To run this locally you will need: Fllutter SDK, Dart SDK and Android Studio.
 
-## Getting Started
+Clone this repo on your locale, open it as an existing project on Android studio and run it on your preferred emulator. Simple as that!
+
+## More Information
 
 This project is a starting point for a Flutter application.
 
